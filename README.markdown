@@ -31,16 +31,16 @@ Layout Preview
 
 Default state:
 
-![Default state](images/default.png)
+![Default state](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/default.png)
 
 `Shift` in effect:
 
-![Default state](images/shift.png)
+![Shift pressed](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/shift.png)
 
 `Option` pressed:
 
-![Default state](images/option.png)
+![Option pressed](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/option.png)
 
 `Option` and `Shift` combined:
 
-![Default state](images/option-shift.png)
+![Option and shift pressed](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/option-shift.png)
