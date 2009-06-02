@@ -11,7 +11,7 @@ changes:
 * Same goes for `` ` `` (so I can switch between application windows easily);
 * The `Option` key (also known as `Alt`) forces the top key row (1!2@3#...) to behave like in the US layout.
 
-The layouts were created with [Ukele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=ukelele).
+The layouts were created with [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=Ukelele).
 
 License
 -------
