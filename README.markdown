@@ -38,16 +38,16 @@ Layout Preview
 
 Default state:
 
-![Default state](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/default.png)
+![Default state](https://github.com/admp/perkunas/raw/master/images/default.png)
 
 `Shift` in effect:
 
-![Shift pressed](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/shift.png)
+![Shift pressed](https://github.com/admp/perkunas/raw/master/images/shift.png)
 
 `Option` pressed:
 
-![Option pressed](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/option.png)
+![Option pressed](https://github.com/admp/perkunas/raw/master/images/option.png)
 
 `Option` and `Shift` combined:
 
-![Option and shift pressed](http://github.com/admp/perkunas/raw/ade79e64e6d3c84cb2ecd4debd80c5ce8285b09c/images/option-shift.png)
+![Option and shift pressed](https://github.com/admp/perkunas/raw/master/images/option-shift.png)
